@@ -17,15 +17,37 @@ It reads your uploaded documents (like salary slips and tax forms), understands 
 
 ---
 
-![Screenshot 2025-07-06 134208](https://github.com/user-attachments/assets/42f40114-53c5-4553-b012-c1e463e7af8b)
-![Screenshot 2025-07-06 134224](https://github.com/user-attachments/assets/0d20d651-1c03-4948-bd5e-9e78bb657ffa)
-![Screenshot 2025-07-06 134319](https://github.com/user-attachments/assets/0bac451e-49f6-44b4-92c5-d10f4ffbea0c)
-![Screenshot 2025-07-06 135327](https://github.com/user-attachments/assets/9b51210a-4599-4c0c-bf73-21b67aac2b09)
-![Screenshot 2025-07-06 135349](https://github.com/user-attachments/assets/ed2559b6-dcba-4870-8216-88f081497df6)
-![Screenshot 2025-07-06 153805](https://github.com/user-attachments/assets/a7d780c5-e568-40b5-96ea-8726898d4243)
+## 📸 Screenshots
 
+Here’s a preview of Finvia’s current interface and flow:
 
 ---
+
+![Screenshot 1 - Dashboard](https://github.com/user-attachments/assets/42f40114-53c5-4553-b012-c1e463e7af8b)
+
+---
+
+![Screenshot 2 - PDF Upload](https://github.com/user-attachments/assets/0d20d651-1c03-4948-bd5e-9e78bb657ffa)
+
+---
+
+![Screenshot 3 - Personalized Form](https://github.com/user-attachments/assets/0bac451e-49f6-44b4-92c5-d10f4ffbea0c)
+
+---
+
+![Screenshot 4 - Chat Response](https://github.com/user-attachments/assets/9b51210a-4599-4c0c-bf73-21b67aac2b09)
+
+---
+
+![Screenshot 5 - Suggestions View](https://github.com/user-attachments/assets/ed2559b6-dcba-4870-8216-88f081497df6)
+
+---
+
+![Screenshot 6 - Embedded Answer](https://github.com/user-attachments/assets/a7d780c5-e568-40b5-96ea-8726898d4243)
+
+---
+
+
 
 ## 🚀 Coming Soon
 
